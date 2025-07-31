@@ -1,0 +1,11 @@
+gradio>=3.0.0
+langchain>=0.1.0
+openai>=1.0.0
+requests>=2.25.0
+oss2>=2.15.0
+PyYAML>=5.4.0
+alibabacloud-credentials>=0.3.0
+alibabacloud-imageprocess20200320>=2.0.0
+alibabacloud-tea-openapi>=0.3.0
+alibabacloud-tea-util>=0.3.0
+markdown>=3.3.0
